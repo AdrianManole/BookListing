@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="exception_http_request">Error occurred during HTTP request</string>
+    <string name="exception_invalid_url">Problem with the URL</string>
+    <string name="exception_response_code">Error response code</string>
+    <string name="exception_json_response">Problem retrieving JSON results</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_books_found">No books found</string>
+    <string name="label_booklist">Book List</string>
+    <string name="edit_text_book_title">Enter book title(required)</string>
+    <string name="edit_text_author">Enter author name</string>
+    <string name="search_details">Search the world`s most comprehensive index of full-text books.</string>
+    <string name="search_button">Search books</string>
+    <string name="book_title">Book title</string>
+    <string name="author_name">Author name</string>
+</resources>

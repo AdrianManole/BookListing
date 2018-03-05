@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context="com.adrianmanole.booklistingapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/default_layout_margin"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="@dimen/search_screen_image_size"
+            android:layout_height="@dimen/search_screen_image_size"
+            android:background="@drawable/books" />
+
+        <EditText
+            android:id="@+id/edit_book_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="@string/edit_text_book_title"
+            android:inputType="textCapWords"
+            android:textSize="@dimen/text_size_large" />
+
+        <EditText
+            android:id="@+id/edit_author_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="@string/edit_text_author"
+            android:inputType="textCapWords"
+            android:textSize="@dimen/text_size_large" />
+
+        <Button
+            android:id="@+id/search_books_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/search_button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:text="@string/search_details"
+            android:textSize="@dimen/search_description_text" />
+
+    </LinearLayout>
+
+</ScrollView>

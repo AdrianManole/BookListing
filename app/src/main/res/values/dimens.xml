@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- List item height -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <dimen name="image_padding_right">16dp</dimen>
+
+    <dimen name="default_layout_margin">18dp</dimen>
+
+    <!-- Image size from the search screen -->
+    <dimen name="search_screen_image_size">88dp</dimen>
+
+    <!-- Text view height for the list view items Book title and author name -->
+    <dimen name="text_view_height">44dp</dimen>
+
+    <!-- Search screen description text size -->
+    <dimen name="search_description_text">16sp</dimen>
+
+    <!-- Text size small -->
+    <dimen name="text_size_small">12sp</dimen>
+
+    <!-- Text size medium -->
+    <dimen name="text_size_medium">16sp</dimen>
+
+    <!-- Text size large -->
+    <dimen name="text_size_large">18sp</dimen>
+
+</resources>
