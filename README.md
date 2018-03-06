@@ -1,11 +1,11 @@
-# Book Listing
-	Book Listing project for Android Basics Nanodegree
-	Android Basics Nanodegree at Udacity.com
+<h1>Book Listing App</h1>
+<p>Book Listing app is a project from Android Basics Nanodegree program.</p>
+<p>Android Basics Nanodegree at Udacity.com</p>
 
-Book Listing app allows a user to get a list of published books on a given topic.
-It uses google books api in order to fetch results and display them to the user.
+<p>Book Listing app allows a user to get a list of published books on a given topic.</p>
+<p>It uses Google Books API in order to fetch results and display them to the user.</p>
 
-# Goodies
+<h2>Goodies</h2>
 <ul>
 	<li>HttpURLConnection</li>
 	<li>AsyncTask</li>
@@ -14,14 +14,13 @@ It uses google books api in order to fetch results and display them to the user.
 	<li>ListView</li>
 </ul>
 
-# Description
-	Search books by author or title.
-	Retrieves data from Google Books API.
-	Only the first 10 results will be displayed.
+<h2>Description</h2>
+<ul>
+	<li>Search books by author or title</li>
+	<li>Retrieves data from Google Books API</li>
+	<li>Only the first 10 results will be displayed</li>
+</ul>
 
-# Screenshot
+<h2>Screenshot</h2>
 
 <img src="https://github.com/AdrianManole/BookListing/blob/master/home%20screen.png" alt="home screen" width=300/>
-
-
-
