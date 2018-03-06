@@ -20,7 +20,8 @@
 	<li>Only the first 10 results will be displayed</li>
 </ul>
 
-<h2>Screenshot</h2>
-
+<h2>Screenshots</h2>
+<p align="left">
 <img src="https://github.com/AdrianManole/BookListing/blob/master/home%20screen.png" alt="home screen" width=300/>
 <img src="https://github.com/AdrianManole/BookListing/blob/master/search%20results.png" alt="search results" width=300/>
+</p>
