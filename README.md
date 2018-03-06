@@ -1,6 +1,5 @@
 <h1>Book Listing App</h1>
-<p>Book Listing app is a project from Android Basics Nanodegree program.</p>
-<p>Android Basics Nanodegree at Udacity.com</p>
+<p>Book Listing app is a project in the Android Basics Nanodegree program at <a href="https://eu.udacity.com/">Udacity.</a></p>
 
 <p>Book Listing app allows a user to get a list of published books on a given topic.</p>
 <p>It uses Google Books API in order to fetch results and display them to the user.</p>
