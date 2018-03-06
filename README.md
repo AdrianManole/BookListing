@@ -23,4 +23,4 @@
 <h2>Screenshot</h2>
 
 <img src="https://github.com/AdrianManole/BookListing/blob/master/home%20screen.png" alt="home screen" width=300/>
-<img src="https://github.com/AdrianManole/BookListing/blob/master/search%20results.png alt="search results" width=300/>
+<img src="https://github.com/AdrianManole/BookListing/blob/master/search%20results.png" alt="search results" width=300/>
